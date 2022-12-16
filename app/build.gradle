@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.passwordapp'
+    namespace 'com.example.passwordmatchapp'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.passwordapp"
+        applicationId "com.example.passwordmatchapp"
         minSdk 26
         targetSdk 32
         versionCode 1

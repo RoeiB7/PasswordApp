@@ -1,4 +1,4 @@
-package com.example.passwordapp;
+package com.example.passwordmatchapp;
 
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;

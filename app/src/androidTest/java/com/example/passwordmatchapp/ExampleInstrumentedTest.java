@@ -1,4 +1,4 @@
-package com.example.passwordapp;
+package com.example.passwordmatchapp;
 
 import android.content.Context;
 
